@@ -1,0 +1,150 @@
+.trr  {
+  padding: 20px;
+  font: 2em sans-serif;
+  text-align: center;
+  font-family: Microsoft JhengHei;
+}
+
+a
+{
+  font-family: Microsoft JhengHei;
+}
+
+.trr3 {
+  font-size: 25px;
+  text-align:center;
+  font-family: Microsoft JhengHei;
+}
+
+.tpfontcolor {
+  color: aliceblue;
+}
+
+.mgat {
+  margin: auto;
+}
+
+.fd {
+  max-width: 300px;
+  max-height: 65px;
+  margin-top: 80px;
+}
+
+.ovfl {
+  background-image: url(data:image/png;base64,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);
+  overflow: hidden;
+}
+
+.{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.sidemar {
+  margin-top: 30px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.topface {
+  font-family: Microsoft JhengHei;
+}
+
+.shop {
+  font-size: 30px;
+  color: red;
+  margin-left: 200px;
+}
+
+.contant {
+  color: black;
+  font-family: Microsoft JhengHei;
+}
+
+.conjs {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 10px;
+}
+
+.musictop {
+  background-color: lightpink;
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+  font-family: Microsoft JhengHei;
+}
+
+.footerss {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #6cf;
+}
+.video-wrapper{
+  position: relative;
+  padding-bottom: 56.25%;  
+  overflow: hidden;
+}
+.video-wrapper iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.shops{
+
+  font-size: 30px;
+  color: black;
+}
+
+.shopfont{
+
+  font-size: 25px;
+  color: black;
+  font-family: Microsoft JhengHei;
+}
+
+.contaa{
+   font-weight:bold;
+   color: black;
+/* {
+  margin: 0;
+  padding: 0;
+  outline: 0 none;
+}*/
+}
+.add-plus-input {
+  white-space: nowrap;
+}
+
+.add-plus-input .btn,
+.add-plus-input .num {
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.add-plus-input .num {
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  border-left: 0;
+  border-right: 0;
+  width: 50px
+}
+
+.add-plus-input .btn {
+  border: 1px solid #999;
+  background-color: #F4F4F4;
+  display: inline-block;
+  text-decoration: none;
+  width: 20px;
+}
+
+.playmod{
+  background-image: url(../img/button.jpg);
+ 
+}
